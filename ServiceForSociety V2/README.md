@@ -163,4 +163,4 @@ The app includes:
 
 **Built with ❤️ for the community**
 
-This app represents a complete MVP ready for testing and development. The code is clean, well-structured, and follows iOS development best practices.
+
